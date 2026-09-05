@@ -8,6 +8,7 @@ Une liste complète des outils et ressources **IA gratuits** pour tous : débuta
 
 ## Génération de texte
 - [ChatGPT](https://chat.openai.com) – Modèle de conversation AI
+- [WSUP AI](https://wsupai.app/) – Chat gratuit avec des personnages AI, sans inscription (SFW)
 - [Hugging Face](https://huggingface.co/) – Modèles ML et NLP open source
 - [OpenAI Playground](https://platform.openai.com/playground) – Tester des modèles GPT gratuitement
 - [TextSynth](https://textsynth.com) – Alternative GPT open source
