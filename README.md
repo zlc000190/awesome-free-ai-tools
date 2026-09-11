@@ -30,6 +30,7 @@ Une liste complète des outils et ressources **IA gratuits** pour tous : débuta
 - [Fast.ai](https://www.fast.ai/) – Cours gratuits pour deep learning
 
 ## Utilitaires et outils divers
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anon, 10/day free account) + [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026)
 - [AI Experiments by Google](https://experiments.withgoogle.com/ai) – Petits projets amusants
 - [RunwayML](https://runwayml.com/) – Edition vidéo et image assistée AI
 - [Notion AI](https://www.notion.so/product/ai) – AI pour organisation et notes
