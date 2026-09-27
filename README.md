@@ -13,6 +13,8 @@ Une liste complète des outils et ressources **IA gratuits** pour tous : débuta
 - [TextSynth](https://textsynth.com) – Alternative GPT open source
 
 ## Génération d’images
+
+- [Raphael](https://raphael.app) — Free unlimited AI image generator with intelligent multi-model routing.
 - [DALL·E](https://openai.com/dall-e) – Création d’images à partir de texte
 - [Stable Diffusion](https://stability.ai/) – Images open source
 - [Craiyon](https://www.craiyon.com/) – Génération rapide d’images AI gratuite
